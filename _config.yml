@@ -8,7 +8,7 @@ description: "Write an awesome description for your new site here. You can edit 
 
 
 page:
-  -title: Build for Developers 
+- title: Build for Developers 
 
 # Team names, titles and social links
 people:
