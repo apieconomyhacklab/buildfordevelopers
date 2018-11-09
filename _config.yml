@@ -9,9 +9,9 @@ description: "Write an awesome description for your new site here. You can edit 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Jarkko Moilanen
   pic: 1
-  position: Lead Designer
+  position: Book author
   social:
     - title: twitter
       url: #
@@ -20,9 +20,9 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Larry Parker
+- name: Developer One
   pic: 2
-  position: Lead Marketer
+  position: Developer Advisor
   social:
     - title: twitter
       url: #
@@ -31,9 +31,9 @@ people:
     - title: linkedin
       url: #
 
-- name: Diana Petersen
+- name: Developer Two
   pic: 3
-  position: Lead Developer
+  position: Developer Advisor
   social:
     - title: twitter
       url: #
@@ -45,7 +45,7 @@ people:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: http://twitter.com/kyyberi
   - title: facebook
     url:
   - title: stack-overflow
