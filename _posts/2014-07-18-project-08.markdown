@@ -1,9 +1,9 @@
 ---
-title: Business models
-subtitle: "Part I: APIs as products"
+title: Embrace open source 
+subtitle: "Part II: Developer-first approach"
 layout: default
 modal-id: 6
-date: 2014-07-13
+date: 2014-07-11
 img: roundicons.png
 thumbnail: roundicons-thumbnail.png
 alt: image-alt
