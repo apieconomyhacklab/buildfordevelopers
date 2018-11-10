@@ -17,8 +17,8 @@
                             <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
                             <!-- <p>{{ post.description }}</p> -->
 
-                            {% for text_hash in page.text %}
-                                <p>{{ text[1] }}</a>
+                            {% for text in page.text %}
+                                <p>{{ text[0] }}</a>
                             {% endfor %}
                             <!-- 
                             <ul class="list-inline item-details">
