@@ -2,7 +2,8 @@
 color:
   # primary: b00404
   primary: 4f9698
-  secondary: ff9933   
+  secondary: ff9933 
+  tertiary: 333   
   secondary-dark: 333
   muted: 777
 
