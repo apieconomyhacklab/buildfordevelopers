@@ -1,6 +1,6 @@
 ---
-title: Business models
-subtitle: "Part I: APIs as products"
+title: Developer eXperience 
+subtitle: "Part II: Developer-first approach"
 layout: default
 modal-id: 6
 date: 2014-07-15
