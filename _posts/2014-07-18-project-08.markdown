@@ -1,6 +1,6 @@
 ---
 title: Developer eXperience 
-subtitle: "Part I: Developer-first approach in product development"
+subtitle: "Part II: Developer-first approach in product development"
 layout: default
 modal-id: 6
 date: 2014-07-15
