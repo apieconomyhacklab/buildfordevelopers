@@ -406,8 +406,6 @@ section h3.section-subheading {
     margin: 0 auto;
     padding: 25px;
     max-width: 400px;
-    min-height: 200px;
-    display:block;
     text-align: center;
     background-color: #fff;
 }
@@ -415,6 +413,8 @@ section h3.section-subheading {
 #portfolio .portfolio-item .portfolio-caption h4 {
     margin: 0;
     text-transform: none;
+    min-height: 50px;
+    display:block;
 }
 
 #portfolio .portfolio-item .portfolio-caption p {
