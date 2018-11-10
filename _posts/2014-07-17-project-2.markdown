@@ -1,6 +1,6 @@
 ---
 title: API provides access to value proposition
-subtitle: Part I: APIs as products
+subtitle: Part I\: APIs as products
 layout: default
 modal-id: 2
 date: 2014-07-17
