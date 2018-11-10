@@ -1,15 +1,16 @@
 ---
-title: Dreams
-subtitle: Website Design
+title: Preface
+subtitle: A few words
 layout: default
 modal-id: 1
-date: 2014-07-18
+date: 2018-11-15
 img: dreams.png
 thumbnail: dreams-thumbnail.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+category: Chapter
+description: Book name is “Build for Developers” for a reason. Choosing good name for the book was probably the toughest part. The name contains the idea of developers as primary customers in API Economy. I was also considering “Made by developers for developers”, because API economy contains developer love story since developers in companies are building APIs for other developers. On top top of that developers in companies are building tools around the APIs for other developers to consume and develop further. 
+
 
 ---
