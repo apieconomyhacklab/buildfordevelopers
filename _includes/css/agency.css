@@ -385,7 +385,7 @@ header .intro-text .intro-heading {
         font-family: {{ site.data.template.font.primary }};
         font-size: 40px;
         font-style: italic;
-        line-height: 32px;
+        line-height: 42px;
     }
 
     header .intro-text .intro-heading {
@@ -394,7 +394,7 @@ header .intro-text .intro-heading {
         font-family: {{ site.data.template.font.primary }};
         font-size: 75px;
         font-weight: 700;
-        line-height: 32px;
+        line-height: 62px;
     }
 }
 
