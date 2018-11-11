@@ -43,7 +43,7 @@ a:hover,
 a:focus,
 a:active,
 a.active {
-    color: #{{ site.data.template.color.primary }};
+    color: #{{ site.data.template.color.secondary-dark }};
 }
 
 h1,
@@ -412,6 +412,7 @@ section h3.section-subheading {
     font-family: {{ site.data.template.font.secondary }};
     font-size: 18px;
     font-weight: 400;
+    line-height: 25px;
 }
 
 @media(min-width:768px) {
