@@ -23,15 +23,15 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Developer One
+- name: Viljami Kuosmanen
   pic: 2
   position: Developer (Advisory Board)
   social:
     - title: twitter
-      url: #
-    - title: facebook
-      url: #
+      url: http://twitter.com/anttiviljami
     - title: linkedin
+      url: https://www.linkedin.com/in/anttiviljami/
+    - title: github
       url: #
 
 - name: Developer Two
