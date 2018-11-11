@@ -727,6 +727,7 @@ section h3.section-subheading {
     margin-top: 25px;
     margin-bottom: 0;
     text-transform: none;
+    color: #{{ site.data.template.color.primary }};
 }
 
 .team-member p {
