@@ -491,6 +491,7 @@ section h3.section-subheading {
     text-transform: none;
     min-height: 50px;
     display:block;
+    color: #{{ site.data.template.color.muted }};
 }
 
 #portfolio .portfolio-item .portfolio-caption p {
