@@ -398,7 +398,7 @@ header .intro-text .intro-heading {
     }
 }
 
-.clients h2.section-heading {
+.clients h3.section-heading {
     color: #{{ site.data.template.color.primary }};
 }
 
