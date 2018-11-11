@@ -17,22 +17,22 @@ people:
   position: Book author
   social:
     - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+      url: https://twitter.com/kyyberi
+    - title: linkedin
+      url: https://www.linkedin.com/in/jarkkomoilanen/
+    - title: github
+      url: https://github.com/kyyberi/
 
 - name: Viljami Kuosmanen
   pic: 2
   position: Developer (Advisory Board)
   social:
     - title: twitter
-      url: http://twitter.com/anttiviljami
+      url: https://twitter.com/anttiviljami
     - title: linkedin
       url: https://www.linkedin.com/in/anttiviljami/
     - title: github
-      url: #
+      url: https://github.com/anttiviljami/
 
 - name: Developer Two
   pic: 3
