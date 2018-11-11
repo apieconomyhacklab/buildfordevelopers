@@ -612,7 +612,7 @@ section h3.section-subheading {
 
 .timeline .timeline-heading h4 {
     margin-top: 0;
-    
+    font-size: 26px;
     color: #{{ site.data.template.color.primary }};
 }
 
