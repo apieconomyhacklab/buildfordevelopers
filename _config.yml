@@ -25,7 +25,7 @@ people:
 
 - name: Developer One
   pic: 2
-  position: Developer Advisor
+  position: Developer (Advisor Board)
   social:
     - title: twitter
       url: #
@@ -36,7 +36,7 @@ people:
 
 - name: Developer Two
   pic: 3
-  position: Developer Advisor
+  position: Developer (Advisor Board)
   social:
     - title: twitter
       url: #
