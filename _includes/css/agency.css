@@ -398,6 +398,10 @@ header .intro-text .intro-heading {
     }
 }
 
+.clients h2.section-heading {
+    color: #{{ site.data.template.color.primary }};
+}
+
 section {
     padding: 100px 0;
 }
