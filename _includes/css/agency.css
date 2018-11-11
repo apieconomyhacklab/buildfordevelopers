@@ -612,11 +612,13 @@ section h3.section-subheading {
 
 .timeline .timeline-heading h4 {
     margin-top: 0;
-    color: inherit;
+    
+    color: #{{ site.data.template.color.primary }};
 }
 
 .timeline .timeline-heading h4.subheading {
     text-transform: none;
+    color: #{{ site.data.template.color.muted }};
 }
 
 .timeline .timeline-body>p,
