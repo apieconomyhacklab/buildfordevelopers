@@ -144,6 +144,7 @@ fieldset[disabled] .btn-primary.active {
 .btn-xl.active,
 .open .dropdown-toggle.btn-xl {
     background-image: none;
+    color: #{{ site.data.template.color.primary }};
 }
 
 .btn-xl.disabled,
