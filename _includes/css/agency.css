@@ -359,7 +359,7 @@ header .intro-text .intro-lead-in {
     color: #{{ site.data.template.color.tertiary }};
     font-size: 22px;
     font-style: italic;
-    line-height: 50px;
+    line-height: 22px;
     padding-left: 50px;
     padding-right: 50px;
 }
@@ -369,9 +369,9 @@ header .intro-text .intro-heading {
     text-transform: uppercase;
     font-family: {{ site.data.template.font.primary }};
     color: #{{ site.data.template.color.tertiary }};
-    font-size: 45px;
+    font-size: 50px;
     font-weight: 700;
-    line-height: 70px;
+    line-height: 50px;
 }
 
 @media(min-width:768px) {
@@ -385,7 +385,7 @@ header .intro-text .intro-heading {
         font-family: {{ site.data.template.font.primary }};
         font-size: 40px;
         font-style: italic;
-        line-height: 42px;
+        line-height: 40px;
     }
 
     header .intro-text .intro-heading {
@@ -394,7 +394,7 @@ header .intro-text .intro-heading {
         font-family: {{ site.data.template.font.primary }};
         font-size: 75px;
         font-weight: 700;
-        line-height: 52px;
+        line-height: 75px;
     }
 }
 
