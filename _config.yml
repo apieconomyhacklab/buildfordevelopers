@@ -34,19 +34,19 @@ people:
     - title: github
       url: https://github.com/anttiviljami/
 
-- name: Your name here?
+- name: Jani Karhunen
   pic: 3
   position: Developer (Advisory Board)
   social:
     - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+      url: https://twitter.com/janikarh/
+    - title: linkedin
+      url: https://www.linkedin.com/in/janikarhunen/
+    - title: github
+      url: https://github.com/janikarh
 
 - name: Your name here?
-  pic: 3
+  pic: 4
   position: Developer (Advisory Board)
   social:
     - title: twitter
