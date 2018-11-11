@@ -1,6 +1,6 @@
 ---
 title: Preface
-subtitle: A few words
+subtitle: Motivation and background
 layout: default
 modal-id: 1
 date: 2018-11-15
