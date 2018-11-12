@@ -494,9 +494,10 @@ section h3.section-subheading {
 #portfolio .portfolio-item .portfolio-caption h4 {
     margin: 0;
     text-transform: none;
-    min-height: 50px;
+    min-height: 100px;
     display:block;
-    color: #{{ site.data.template.color.muted }};
+    color: #{{ site.data.template.color.primary }};
+
 }
 
 #portfolio .portfolio-item .portfolio-caption p {
