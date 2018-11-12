@@ -12,8 +12,14 @@ client: Start Bootstrap
 category: Part I - APIs as Products
 ---
 
-APIs have been there for years. Over the past couple of years, APIs have become a hype and ….
+Technically APIs in modern format have been there for years and used by application developers.  During the past couple of years, APIs have become a hype and people in fancy suits (orange as brave - others in tradional gray blazers) keep on promoting API Economy in conferences. That is just another example of Amara's Law "We tend to overestimate the effect of a technology in the short run and underestimate the effect in the long run". REST was defined 2000 and now the architectural style is de facto. What has changed? We start to see and understand the value of APIs now. We begin to see APIs as products. 
  
-Book name is “Build for Developers” for a reason. Choosing good name for the book was probably the toughest part. The name contains the idea of developers as primary customers in API Economy. I was also considering “Made by developers for developers”, because API economy contains developer love story since developers in companies are building APIs for other developers. On top top of that developers in companies are building tools around the APIs for other developers to consume and develop further. 
+Book name is “Build for Developers” for a reason. Choosing good name for the book was probably the toughest part. The name contains the idea of developers as primary customers in API Economy. I was also considering “Made by developers for developers”, because API economy contains love story since developers in companies are building APIs for other developers. On top top of that developers in companies are building tools around the APIs for other developers to consume and develop further. 
+
+I've been lucky to have a long-term positive relationship with developers and hacker communities. I've always been comfortable with devs although own programming skills have rusted over the years. I have fallen in love with developer and hacker culture. Sharing and tutoring each other which is built-in to the developer communities have given me the opportunity to learn a lot more practical skills than my formal education. I feel constant yearning to pay it back by helping others and contribute the way I can, which is more or less research-driven information about various subjects.  
+
+Considering my past, it is no wonder that I wanted to write this book. This is my contribution and tribute to the developer community. I hope business decision makers and marketing people in API economy understand what you need and want after reading this book.
+
+
 
 
