@@ -9,7 +9,7 @@ thumbnail: dreams-thumbnail.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
-category: Chapter
+category: Part I - APIs as Products
 ---
 
 APIs have been there for years. Over the past couple of years, APIs have become a hype and ….
