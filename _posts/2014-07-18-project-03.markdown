@@ -12,5 +12,5 @@ client: Start Bootstrap
 category: Web Development
 ---
 
-Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+The early days on modern APIs have been more or less request - response type REST data APIs. Application frameworks and architectures have changed and require different type of APIs. The need to get rid of polling APIs is evident - we are moving towards demand-based and event-driven as well as functional APIs. Also the emergence of data streams (IoT and alike) raise problems which can not be answered with traditional tools and APIs. In this chapter we explore the emerging application developer needs regarding how they prefer to consume APIs and what kind of trends are visible at the moment in implementing application developer friendly APIs.  
 

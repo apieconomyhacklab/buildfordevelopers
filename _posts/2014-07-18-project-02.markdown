@@ -12,4 +12,4 @@ client: Start Bootstrap
 category: Web Development
 ---
 
-Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+APIs are seen too often only from technical point of view. What is not understood widely is that API is a channel to value or Value Proposition Interface as Amancio Bouza has coined. Regardless of your technical approach (REST, GraphQL, SOAP etc), API should be understood also as business artefact. In this chapter API is introduced from business and value proposition interface point of view. 
