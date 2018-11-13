@@ -45,6 +45,15 @@ people:
     - title: github
       url: https://github.com/janikarh
 
+- name: Janne Uggeldahl
+  pic: 4
+  position: Bearded Banker (Advisory Board)
+  social:
+    - title: twitter
+      url: https://twitter.com/JUggeldahl
+    - title: linkedin
+      url: https://www.linkedin.com/in/juggeldahl/
+
 - name: Your name here?
   pic: 4
   position: Developer (Advisory Board)
