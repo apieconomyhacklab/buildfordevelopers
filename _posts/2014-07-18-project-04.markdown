@@ -12,5 +12,5 @@ client: Start Bootstrap
 category: Web Development
 ---
 
-The primary customer is application developer. They work with it daily. The manager behind developers is your moneybag or resource gatekeeper. Please the developers first, but don’t forget that money makes the world go round. Win the hearts of the developers and money will follow. In this chapter you’ll learn that developers are not all alike and why segmenting is important.  
+The primary customer is application developer. They work with your APIs daily often daily. The manager behind developers is your moneybag or resource gatekeeper. Please the developers first, but don’t forget that money makes the world go round. Win the hearts of the developers and money will follow. In this chapter you’ll learn that developers are not all alike and why segmenting is important.  
 
