@@ -3,7 +3,7 @@ title: Primary customer is developer
 subtitle: "Part I: APIs as products"
 layout: default
 modal-id: 4
-date: 2014-07-17
+date: 2014-07-15
 img: golden.png
 thumbnail: primary-customer.png
 alt: image-alt
