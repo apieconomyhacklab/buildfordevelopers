@@ -1,16 +1,16 @@
 ---
-title: More coming soon!
-subtitle: "Follow #Build4Devs" 
+title: Primary customer is developer
+subtitle: "Part I: APIs as products"
 layout: default
 modal-id: 4
-date: 2014-07-15
-img: more.png
-thumbnail: more.png
+date: 2014-07-17
+img: golden.png
+thumbnail: golden-thumbnail.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
 ---
 
-More chapters are revealed around biweekly. 
+The primary customer is application developer. They work with it daily. The manager behind developers is your moneybag or resource gatekeeper. Please the developers first, but don’t forget that money makes the world go round. Win the hearts of the developers and money will follow. In this chapter you’ll learn that developers are not all alike and why segmenting is important.  
 
