@@ -1,0 +1,15 @@
+---
+title: Developer eXperience
+subtitle: "Part II: Developer-first approach"  
+layout: default
+modal-id: 5
+date: 2014-05-10
+img: more.png
+thumbnail: dx.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+---
+
+In this chapter you will learn what are the building blocks of great Developer eXperience. Developer experience is explained as a concept with help of more familiar User eXperience and Customer eXperience. You will also learn how developer-first approach results to better sales and customer satisfaction. The Developer experience building blocks are connected together with fluent customer journey.
