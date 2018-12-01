@@ -2,7 +2,7 @@
 title: More coming soon!
 subtitle: "Follow #Build4Devs" 
 layout: default
-modal-id: 5
+modal-id: 6
 date: 2014-04-15
 img: more.png
 thumbnail: more.png
