@@ -1,16 +1,16 @@
 ---
-title: More coming soon!
-subtitle: "Follow #Build4Devs" 
+title: Key to success is multidisciplinary team
+subtitle: "Part I: APIs as products" 
 layout: default
 modal-id: 6
-date: 2014-04-15
-img: more.png
-thumbnail: more.png
+date: 2014-04-14
+img: multi.png
+thumbnail: multi.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
 ---
 
-More chapters are revealed around biweekly. 
+Product and customer-centric approach with APIs will take you to success, but developer-centric will make you the industry leader. Developer-centric approach is introduced in details. In this chapter we’ll discuss optimal API development team composition and how to enable transparent discussion inside team with canvas tools.  
 

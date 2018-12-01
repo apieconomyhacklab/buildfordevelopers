@@ -1,0 +1,16 @@
+---
+title: More coming soon!
+subtitle: "Follow #Build4Devs" 
+layout: default
+modal-id: 7
+date: 2014-04-15
+img: more.png
+thumbnail: more.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+---
+
+More chapters are revealed around biweekly. 
+
