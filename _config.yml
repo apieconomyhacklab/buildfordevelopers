@@ -54,14 +54,14 @@ people:
     - title: linkedin
       url: https://www.linkedin.com/in/juggeldahl/
 
-- name: Nazia Hasan
-  pic: nazia
-  position: Visual Designer
-  social:
-    - title: twitter
-      url: https://twitter.com/NazarahTheCat
-    - title: linkedin
-      url: https://www.linkedin.com/in/naziahasan/
+# - name: Nazia Hasan
+#  pic: nazia
+#  position: Visual Designer
+#  social:
+#    - title: twitter
+#      url: https://twitter.com/NazarahTheCat
+#    - title: linkedin
+#      url: https://www.linkedin.com/in/naziahasan/
 
 - name: Your name here?
   pic: 5
