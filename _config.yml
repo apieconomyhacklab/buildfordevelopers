@@ -8,7 +8,7 @@ description: "Book about Application Developers as Customers in API Economy. To 
 
 
 page:
-- title: Build for Developers 
+- title: Build for Developers
 
 # Team names, titles and social links
 people:
@@ -54,6 +54,15 @@ people:
     - title: linkedin
       url: https://www.linkedin.com/in/juggeldahl/
 
+- name: Nazia Hasan
+  pic: 5
+  position: Visual Designer
+  social:
+    - title: twitter
+      url: https://twitter.com/NazarahTheCat
+    - title: linkedin
+      url: https://www.linkedin.com/in/naziahasan/
+
 - name: Your name here?
   pic: 5
   position: Developer (Advisory Board)
@@ -73,7 +82,7 @@ social:
     url:
   - title: stack-overflow
     url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
+  - title: bitbucket
     url: http://bitbucket.org/jekyll
   - title: github
     url: http://github.com/jekyll
