@@ -54,6 +54,13 @@ people:
     - title: linkedin
       url: https://www.linkedin.com/in/juggeldahl/
 
+- name: Kimberly Grice
+  pic: 6
+  position: Editor
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/kimberly-grice-01182084/
+
 # - name: Nazia Hasan
 #  pic: nazia
 #  position: Visual Designer
